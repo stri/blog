@@ -1,0 +1,15 @@
+
+CACHE MANIFEST
+#v 0.0.1
+			   
+#JS,CSS
+http://striblog.com/index.css
+http://striblog.com/index.js
+https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700
+https://fonts.gstatic.com/s/lato/v11/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff
+https://fonts.gstatic.com/s/lato/v11/kcf5uOXucLcbFOydGU24WALUuEpTyoUstqEm5AMlJo4.woff
+
+
+
+NETWORK:
+ *
